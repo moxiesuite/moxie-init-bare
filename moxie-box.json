@@ -1,0 +1,12 @@
+{
+  "docs_url": "http://moxieframework.com/docs/",
+  "ignore": [
+    ".gitignore",
+    "README.md"
+  ],
+  "commands": {
+    "Compile": "moxie compile",
+    "Migrate": "moxie migrate",
+    "Test": "moxie test"
+  }
+}

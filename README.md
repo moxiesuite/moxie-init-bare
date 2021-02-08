@@ -1,3 +1,3 @@
-# truffle-init-bare
+# moxie-init-bare
 
-Barebones Truffle project.
+Barebones Moxie project.
